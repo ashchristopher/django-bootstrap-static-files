@@ -5,7 +5,7 @@ from setuptools import setup, find_packages
 setup(
     name='django-bootstrap-static-files',
     version='2.0.3',  # mapped to Twitter's bootstrap version
-    description='Twitter bootstrap files.',
+    description='Twitter bootstrap files for Django.',
     author='Ash Christopher',
     author_email='ash.christopher@gmail.com',
     url='https://github.com/ashchristopher/django-bootstrap-static-files',
