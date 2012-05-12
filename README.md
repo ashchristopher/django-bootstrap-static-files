@@ -3,4 +3,4 @@ This package provides Twitter's <a href='http://twitter.github.com/bootstrap/'>B
 
 It is nothing more than the static assets from Bootstrap.
 
-**The version of the python package matches the versio of Twitter Bootstrap.**
+**The version of the python package matches the version of Twitter Bootstrap.**
