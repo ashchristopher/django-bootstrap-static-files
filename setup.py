@@ -1,10 +1,9 @@
-import os.path
 from setuptools import setup, find_packages
 
 
 setup(
     name='django-bootstrap-static-files',
-    version='2.0.4',  # mapped to Twitter's bootstrap version
+    version='2.3.2',  # mapped to Twitter's bootstrap version
     description='Twitter bootstrap static files for Django.',
     author='Ash Christopher',
     author_email='ash.christopher@gmail.com',
