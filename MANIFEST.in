@@ -1,2 +1,1 @@
 recursive-include bootstrap/static *.*
-recursive-include bootstrap_no_namespace/static *.*
