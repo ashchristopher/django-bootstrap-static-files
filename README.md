@@ -1,5 +1,5 @@
 # django-bootstrap-static-files
-This package provides Twitter's <a href='http://twitter.github.com/bootstrap/'>Bootstrap</a> project as a Django package for quick inclusion in Django projects. 
+This package provides Twitter's <a href='http://getbootstrap.com/'>Bootstrap</a> project as a Django package for quick inclusion in Django projects.
 
 **The version of the python package matches the version of Twitter Bootstrap.**
 
