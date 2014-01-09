@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='django-bootstrap-static-files',
-    version='3.0.1',  # mapped to Twitter's bootstrap version
+    version='3.0.3',  # mapped to Twitter's bootstrap version
     description='Twitter bootstrap static files for Django.',
     author='Ash Christopher',
     author_email='ash.christopher@gmail.com',
